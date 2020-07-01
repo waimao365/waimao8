@@ -110,41 +110,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Github</title>
-      <link>http://localhost:1313/tags/github/</link>
-      <pubDate>Fri, 13 Dec 2019 12:33:32 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hexo</title>
-      <link>http://localhost:1313/tags/hexo/</link>
-      <pubDate>Fri, 13 Dec 2019 12:33:32 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/hexo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jsdelivr</title>
-      <link>http://localhost:1313/tags/jsdelivr/</link>
-      <pubDate>Fri, 13 Dec 2019 12:33:32 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/jsdelivr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PicGo</title>
-      <link>http://localhost:1313/tags/picgo/</link>
-      <pubDate>Fri, 13 Dec 2019 12:33:32 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/picgo/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
